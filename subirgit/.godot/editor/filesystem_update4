@@ -1,0 +1,12 @@
+res://scenes/main.tscn
+res://scripts/Arqueiro.gd
+res://scripts/Curandeiro.gd
+res://scripts/Guerreiro.gd
+res://scripts/Mago.gd
+res://scripts/main.gd
+res://scenes/main2.tscn
+res://scripts/Bicicleta.gd
+res://scripts/Caminhao.gd
+res://scripts/Carro.gd
+res://scripts/main2.gd
+res://scripts/Moto.gd

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://choyka1iltrkx"]
+
+[ext_resource type="Script" path="res://scripts/Leao.gd" id="1_i72rm"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_i72rm")
